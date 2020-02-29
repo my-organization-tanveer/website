@@ -6,4 +6,4 @@ Edit on example branch.
 
 Now editing on update-readme.
 
-Added few more details
+Added few more details. Added.
