@@ -6,4 +6,6 @@ Edit on example branch.
 
 Now editing on update-readme.
 
-Added few more details. Added.
+Added few more details. Added
+
+Updates made on Master branch.
