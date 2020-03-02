@@ -6,14 +6,14 @@ Edit on example branch.
 
 Now editing on update-readme.
 
-This is updated for conflict. 
+Added few more details. Added
+
+GIT HUB changes.
+
 
 Updates made on Master branch.
 
-Updates on Develop branch.
 
-conflicting changes in local branch.
+#Local Repo
 
-#Local Repo Changes 
-
-This change will conflict the changes.
+This is just a readme file.
