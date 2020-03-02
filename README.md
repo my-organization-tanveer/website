@@ -10,6 +10,4 @@ Added few more details. Added
 
 Updates made on Master branch.
 
-Updates on Develop branch.
-
 Problematic changes.
