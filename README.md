@@ -6,10 +6,10 @@ Edit on example branch.
 
 Now editing on update-readme.
 
-Added few more details. Added
+This is updated for conflict. 
 
 Updates made on Master branch.
 
 Updates on Develop branch.
 
-Changes added to local repo. Conflicting changes added.
+conflicting changes in local branch.
