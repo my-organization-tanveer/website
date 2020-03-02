@@ -12,4 +12,4 @@ Updates made on Master branch.
 
 Updates on Develop branch.
 
-Changes added to local repo. Conflicting changes
+Changes added to local repo. Conflicting changes added.
